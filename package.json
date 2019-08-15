@@ -1,0 +1,19 @@
+{
+  "name": "mobile-swiper",
+  "version": "1.0.0",
+  "description": "根据 https://aotu.io/notes/2017/07/17/design-a-swiper/ 提供代码和思路做了一些修改 //感谢contributor mazhuang的贡献",
+  "main": "mobile-swiper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teddy1209/mobile-swiper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teddy1209/mobile-swiper/issues"
+  },
+  "homepage": "https://github.com/teddy1209/mobile-swiper#readme"
+}
